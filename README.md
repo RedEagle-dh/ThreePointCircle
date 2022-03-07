@@ -8,6 +8,8 @@ There are some conditions for setting up the circle equation with 3 points.
 - No double points
 - 3 points do not lie on a common x or y straight line
 
+- Some points are indicated as errors or as NaN although there should be a solution. This is due to the mathematics behind it, the program calculates without an approximation formula. 
+
 ## Mathematical derivation
 
 - X Axis intercept from center
